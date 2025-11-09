@@ -137,8 +137,6 @@ If Ollama is running, your AI routes will:
 - Generate personalized insights
 - Respond in AI Chat
 
-If Ollama isn’t running, the backend will fallback to OpenAI (if you’ve set your `OPENAI_API_KEY`).
-
 ---
 
 ## 🧠 6. Optional: Seeding Dummy Data
